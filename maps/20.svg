@@ -24,6 +24,13 @@
    <glyph unicode=" " horiz-adv-x="556"/>
   </font>
  </defs>
+ <defs>
+  <font id="EmbeddedFont_2" horiz-adv-x="2048">
+   <font-face font-family="Liberation Sans embedded" units-per-em="2048" font-weight="bold" font-style="normal" ascent="1852" descent="423"/>
+   <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
+   <glyph unicode="N" horiz-adv-x="1218" d="M 995,0 L 381,1085 C 393,980 399,895 399,831 L 399,0 137,0 137,1409 474,1409 1097,315 C 1085,416 1079,507 1079,590 L 1079,1409 1341,1409 1341,0 995,0 Z"/>
+  </font>
+ </defs>
  <defs class="TextShapeIndex">
   <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10"/>
  </defs>
@@ -79,8 +86,8 @@
       </g>
       <g class="com.sun.star.drawing.LineShape">
        <g id="id4">
-        <rect class="BoundingBox" stroke="none" fill="none" x="4118" y="75618" width="28965" height="1765"/>
-        <path fill="none" stroke="rgb(128,0,128)" stroke-width="1764" stroke-linejoin="round" stroke-linecap="round" d="M 5000,76500 L 32200,76500"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="4030" y="75530" width="29141" height="1941"/>
+        <path fill="none" stroke="rgb(255,255,215)" stroke-width="1940" stroke-linejoin="round" stroke-linecap="round" d="M 5000,76500 L 32200,76500"/>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
@@ -103,8 +110,8 @@
       </g>
       <g class="com.sun.star.drawing.LineShape">
        <g id="id8">
-        <rect class="BoundingBox" stroke="none" fill="none" x="59318" y="18518" width="1765" height="20065"/>
-        <path fill="none" stroke="rgb(128,0,128)" stroke-width="1764" stroke-linejoin="round" stroke-linecap="round" d="M 60200,37700 L 60200,19400"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="59230" y="18430" width="1941" height="20241"/>
+        <path fill="none" stroke="rgb(255,255,215)" stroke-width="1940" stroke-linejoin="round" stroke-linecap="round" d="M 60200,37700 L 60200,19400"/>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
@@ -117,6 +124,7 @@
        <g id="id10">
         <rect class="BoundingBox" stroke="none" fill="none" x="65722" y="86818" width="6002" height="10183"/>
         <path fill="rgb(0,0,0)" stroke="none" d="M 67799,97000 L 67799,93051 65722,93051 68722,86818 71723,93051 69645,93051 69645,97000 67799,97000 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="1905px" font-weight="700"><tspan class="TextPosition" x="68034" y="93528"><tspan fill="rgb(255,255,255)" stroke="none">N</tspan></tspan></tspan></text>
        </g>
       </g>
      </g>

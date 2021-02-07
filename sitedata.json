@@ -5,106 +5,106 @@
    },
    "20":{
       "wind":2,
-      "note":""
+      "note":"Sloping drive, not much shelter from the wind."
    },
    "21":{
       "wind":3,
-      "note":""
+      "note":"Shares drive with site 22, some shelter from the wind."
    },
    "22":{
       "wind":4,
-      "note":""
+      "note":"Shares drive with site 21, small tree, small extra space, sheltered from the wind and privacy from the road."
    },
    "23":{
       "wind":3,
-      "note":""
+      "note":"Big tree, nice shade. Lots of extra space, long drive and private."
    },
    "24":{
       "wind":1,
-      "note":""
+      "note":"Close to the road, small tree, sloping drive"
    },
    "25":{
       "wind":4,
-      "note":""
+      "note":"Sheltered from the wind, no car park, near to water tap."
    },
    "26":{
       "wind":2,
-      "note":""
+      "note":"Shared road access with 27. Have to park car across the road, near to water tap."
    },
    "27":{
       "wind":3,
-      "note":""
+      "note":"Shared road access with 26. Have to park car across the road, near to water tap."
    },
    "28":{
       "wind":5,
-      "note":""
+      "note":"No extra space, but sheltered from the wind and a big site. Near to the toilet."
    },
    "29":{
       "wind":4,
-      "note":""
+      "note":"Close to the toilet, no extra space, quite sheltered from the wind."
    },
    "30":{
       "wind":3,
-      "note":""
+      "note":"Close to the road, sheltered from the wind, big site, no extra space."
    },
    "31":{
       "wind":2,
-      "note":""
+      "note":"Close to the road, sheltered from the wind, no extra space, nice path to the beach."
    },
    "32":{
       "wind":1,
-      "note":""
+      "note":"Next to the day use area, extra space, but this is shared with the day use parking spot."
    },
    "33":{
       "wind":3,
-      "note":""
+      "note":"Some shelter from the wind, no extra space"
    },
    "34":{
       "wind":1,
-      "note":""
+      "note":"Extra space, with a long drive, near water tap, smallish site."
    },
    "35":{
       "wind":2,
-      "note":""
+      "note":"Good site, with long drive and extra space, near to the toilet. Does get a big puddle at the bottom of the drive in heavy rain."
    },
    "36":{
       "wind":3,
-      "note":""
+      "note":"No extra space, short driveway."
    },
    "37":{
       "wind":5,
-      "note":""
+      "note":"Nice trees, car park 10m from site"
    },
    "38":{
       "wind":0,
-      "note":""
+      "note":"Long drive with extra space and nice trees, large site with a lovely path to the beach."
    },
    "39":{
       "wind":0,
-      "note":""
+      "note":"Shared drive with site 40, nice tree with small extra space"
    },
    "40":{
       "wind":2,
-      "note":""
+      "note":"Shared drive with site 39, small extra space"
    },
    "41":{
       "wind":1,
-      "note":""
+      "note":"This is a nice site with extra space and a good tree."
    },
    "42":{
       "wind":3,
-      "note":""
+      "note":"Small extra space, right across from the toilet."
    },
    "43":{
       "wind":3,
-      "note":""
+      "note":"Path to the beach is next to 44, 45, doesn't have it's own private path. No extra space, has a notch on the pad, refer to dimensions"
    },
    "44":{
       "wind":1,
-      "note":""
+      "note":"No extra space, shares path with 45, has a notch, refer to dimensions"
    },
    "45":{
       "wind":2,
-      "note":""
+      "note":"Large site, shares path with 44."
    }
 }
